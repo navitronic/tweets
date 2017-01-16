@@ -647,8 +647,8 @@ Grailbird.data.tweets_2013_07 =
       "name" : "maddie maree.",
       "screen_name" : "thephantomfly",
       "indices" : [ 0, 14 ],
-      "id_str" : "14161529",
-      "id" : 14161529
+      "id_str" : "732861447026413568",
+      "id" : 732861447026413568
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -662,7 +662,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 356687610934071297,
   "in_reply_to_status_id" : 356687271065436160,
   "created_at" : "2013-07-15 08:12:08 +0000",
-  "in_reply_to_screen_name" : "thephantomfly",
+  "in_reply_to_screen_name" : "laexistential",
   "in_reply_to_user_id_str" : "14161529",
   "user" : {
     "name" : "Adrian",
@@ -992,10 +992,7 @@ Grailbird.data.tweets_2013_07 =
       "id" : 16136437
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "civilEngineering",
-      "indices" : [ 137, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 114, 136 ],
       "url" : "http:\/\/t.co\/8QztpZS6Hg",
@@ -1157,7 +1154,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/351617969039761408\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/351617969039761408\/photo\/1",
       "indices" : [ 32, 54 ],
       "url" : "http:\/\/t.co\/YbtLqEp3Rn",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BOEyrg2CYAAe-A6.jpg",

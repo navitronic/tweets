@@ -62,7 +62,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -94,13 +94,7 @@ Grailbird.data.tweets_2015_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Al",
-      "screen_name" : "kaijerk",
-      "indices" : [ 0, 8 ],
-      "id_str" : "2481385423",
-      "id" : 2481385423
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -110,16 +104,11 @@ Grailbird.data.tweets_2015_08 =
       "display_url" : "newsroom.border.gov.au\/releases\/abf-j\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "637067117666308097",
   "geo" : { },
   "id_str" : "637067166714490880",
-  "in_reply_to_user_id" : 2481385423,
   "text" : "@kaijerk http:\/\/t.co\/oXKERp4JQ0",
   "id" : 637067166714490880,
-  "in_reply_to_status_id" : 637067117666308097,
   "created_at" : "2015-08-28 01:00:23 +0000",
-  "in_reply_to_screen_name" : "kaijerk",
-  "in_reply_to_user_id_str" : "2481385423",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -276,7 +265,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -309,7 +298,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -528,26 +517,21 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "629175945190977537",
   "geo" : { },
   "id_str" : "629176040275849216",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k just checked out the farming channel, you guys know how to talk :D",
   "id" : 629176040275849216,
-  "in_reply_to_status_id" : 629175945190977537,
   "created_at" : "2015-08-06 06:23:52 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -561,17 +545,17 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2660\uFE0E\u2408\u2660\uFE0E",
+      "name" : "Ben Schwarz",
       "screen_name" : "benschwarz",
       "indices" : [ 0, 11 ],
       "id_str" : "14431882",
       "id" : 14431882
     }, {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 12, 21 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -600,17 +584,17 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2660\uFE0E\u2408\u2660\uFE0E",
+      "name" : "Ben Schwarz",
       "screen_name" : "benschwarz",
       "indices" : [ 0, 11 ],
       "id_str" : "14431882",
       "id" : 14431882
     }, {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 12, 21 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -728,7 +712,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -800,26 +784,21 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "628737280862126081",
   "geo" : { },
   "id_str" : "628737704457474049",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k a link to an image hosted on dropbox?",
   "id" : 628737704457474049,
-  "in_reply_to_status_id" : 628737280862126081,
   "created_at" : "2015-08-05 01:22:04 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -833,26 +812,21 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "628736931493343233",
   "geo" : { },
   "id_str" : "628737044534030336",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k let him be your spirit animal for the next few hours",
   "id" : 628737044534030336,
-  "in_reply_to_status_id" : 628736931493343233,
   "created_at" : "2015-08-05 01:19:27 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -866,11 +840,11 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -881,16 +855,11 @@ Grailbird.data.tweets_2015_08 =
       "display_url" : "i.imgur.com\/cmsR1QP.jpg"
     } ]
   },
-  "in_reply_to_status_id_str" : "628736008742285312",
   "geo" : { },
   "id_str" : "628736482350465024",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k http:\/\/t.co\/gSRAiCgKjr",
   "id" : 628736482350465024,
-  "in_reply_to_status_id" : 628736008742285312,
   "created_at" : "2015-08-05 01:17:13 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",

@@ -588,26 +588,21 @@ Grailbird.data.tweets_2009_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathleen Joy",
+      "name" : "Sie",
       "screen_name" : "kissability",
       "indices" : [ 0, 12 ],
-      "id_str" : "5447072",
-      "id" : 5447072
+      "id_str" : "797151622207934464",
+      "id" : 797151622207934464
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1624402500",
   "geo" : { },
   "id_str" : "1624417024",
-  "in_reply_to_user_id" : 5447072,
   "text" : "@kissability it was a great film, I loved it. Love films that mix a good story, thoughtful issues and mix in some dark humour.",
   "id" : 1624417024,
-  "in_reply_to_status_id" : 1624402500,
   "created_at" : "2009-04-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kissability",
-  "in_reply_to_user_id_str" : "5447072",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -740,26 +735,21 @@ Grailbird.data.tweets_2009_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathleen Joy",
+      "name" : "Sie",
       "screen_name" : "kissability",
       "indices" : [ 0, 12 ],
-      "id_str" : "5447072",
-      "id" : 5447072
+      "id_str" : "797151622207934464",
+      "id" : 797151622207934464
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1604164452",
   "geo" : { },
   "id_str" : "1604412180",
-  "in_reply_to_user_id" : 5447072,
   "text" : "@kissability good work.",
   "id" : 1604412180,
-  "in_reply_to_status_id" : 1604164452,
   "created_at" : "2009-04-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kissability",
-  "in_reply_to_user_id_str" : "5447072",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1341,7 +1331,7 @@ Grailbird.data.tweets_2009_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bronwen Clune",
+      "name" : "Bronwen",
       "screen_name" : "bronwen",
       "indices" : [ 0, 8 ],
       "id_str" : "749333",
@@ -2932,7 +2922,7 @@ Grailbird.data.tweets_2009_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LED Kernber",
+      "name" : "Elliott Kernber",
       "screen_name" : "elliottkember",
       "indices" : [ 0, 14 ],
       "id_str" : "903351",
@@ -3374,7 +3364,7 @@ Grailbird.data.tweets_2009_04 =
       "id" : 749863
     }, {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 91, 99 ],
       "id_str" : "783214",
       "id" : 783214

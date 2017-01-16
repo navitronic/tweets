@@ -102,7 +102,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Strictly Sturgeon",
+      "name" : "Phil \uD83E\uDD47",
       "screen_name" : "philsturgeon",
       "indices" : [ 0, 13 ],
       "id_str" : "20662440",
@@ -135,11 +135,11 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -150,16 +150,11 @@ Grailbird.data.tweets_2015_07 =
       "display_url" : "vignette1.wikia.nocookie.net\/donthugme\/imag\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "625604202367094784",
   "geo" : { },
   "id_str" : "625604822721433600",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k it was either that or this guy: http:\/\/t.co\/WxVQYOI4EN",
   "id" : 625604822721433600,
-  "in_reply_to_status_id" : 625604202367094784,
   "created_at" : "2015-07-27 09:53:07 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -173,26 +168,21 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "625604149061615616",
   "geo" : { },
   "id_str" : "625604457187794944",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k nokia need to make a brick phone with wifi hotspot ability.",
   "id" : 625604457187794944,
-  "in_reply_to_status_id" : 625604149061615616,
   "created_at" : "2015-07-27 09:51:40 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -206,26 +196,21 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "625595437991374849",
   "geo" : { },
   "id_str" : "625602937855700993",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k nokia brick phone.",
   "id" : 625602937855700993,
-  "in_reply_to_status_id" : 625595437991374849,
   "created_at" : "2015-07-27 09:45:38 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -372,7 +357,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -412,7 +397,7 @@ Grailbird.data.tweets_2015_07 =
       "id" : 116946371
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/624017395531714560\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/624017395531714560\/photo\/1",
       "indices" : [ 16, 38 ],
       "url" : "http:\/\/t.co\/VAkpGczMnZ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CKj0gvAVAAACV79.jpg",
@@ -468,14 +453,14 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 81, 90 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/624006983562100736\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/624006983562100736\/photo\/1",
       "indices" : [ 91, 113 ],
       "url" : "http:\/\/t.co\/3fGviAJN2t",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CKjrCrRUwAA7opD.jpg",
@@ -526,26 +511,21 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "623395935360385024",
   "geo" : { },
   "id_str" : "623396567169392644",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k can\u2019t wait. Some of my fondest memories from growing up are baking. Cooking is good \uD83D\uDC4D",
   "id" : 623396567169392644,
-  "in_reply_to_status_id" : 623395935360385024,
   "created_at" : "2015-07-21 07:38:18 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -724,26 +704,21 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "621788835186249728",
   "geo" : { },
   "id_str" : "621806855879196672",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k which side is the wave pool going on?",
   "id" : 621806855879196672,
-  "in_reply_to_status_id" : 621788835186249728,
   "created_at" : "2015-07-16 22:21:21 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -842,11 +817,11 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -857,16 +832,11 @@ Grailbird.data.tweets_2015_07 =
       "display_url" : "i.imgur.com\/R5amIJ7.gif"
     } ]
   },
-  "in_reply_to_status_id_str" : "620409333252120576",
   "geo" : { },
   "id_str" : "620409699515498496",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k composer install is fine, as its grabbing stuff specified in the lock file... composer update however... http:\/\/t.co\/8KzUiAIgc0",
   "id" : 620409699515498496,
-  "in_reply_to_status_id" : 620409333252120576,
   "created_at" : "2015-07-13 01:49:33 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1111,7 +1081,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "179902311",
       "id" : 179902311
     }, {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 7, 21 ],
       "id_str" : "16825527",

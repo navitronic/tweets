@@ -180,11 +180,11 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 9, 18 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -208,7 +208,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",

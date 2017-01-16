@@ -849,26 +849,21 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathleen Joy",
+      "name" : "Sie",
       "screen_name" : "kissability",
       "indices" : [ 0, 12 ],
-      "id_str" : "5447072",
-      "id" : 5447072
+      "id_str" : "797151622207934464",
+      "id" : 797151622207934464
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "2594865476",
   "geo" : { },
   "id_str" : "2594922890",
-  "in_reply_to_user_id" : 5447072,
   "text" : "@kissability how does one go about pouring love into someone? sounds like fun",
   "id" : 2594922890,
-  "in_reply_to_status_id" : 2594865476,
   "created_at" : "2009-07-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kissability",
-  "in_reply_to_user_id_str" : "5447072",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1312,7 +1307,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",
@@ -1345,7 +1340,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",
@@ -1378,7 +1373,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",
@@ -1560,7 +1555,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",
@@ -1593,7 +1588,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",
@@ -2330,7 +2325,7 @@ Grailbird.data.tweets_2009_07 =
       "id_str" : "12809522",
       "id" : 12809522
     }, {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 9, 14 ],
       "id_str" : "816717",
@@ -2369,7 +2364,7 @@ Grailbird.data.tweets_2009_07 =
       "id_str" : "12809522",
       "id" : 12809522
     }, {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 9, 14 ],
       "id_str" : "816717",
@@ -2758,11 +2753,11 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "XRS Xenex",
+      "name" : "Connor R",
       "screen_name" : "Xenex",
       "indices" : [ 0, 6 ],
-      "id_str" : "2827517656",
-      "id" : 2827517656
+      "id_str" : "767085633651281920",
+      "id" : 767085633651281920
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2968,7 +2963,7 @@ Grailbird.data.tweets_2009_07 =
       "id_str" : "5918802",
       "id" : 5918802
     }, {
-      "name" : "Bronwen Clune",
+      "name" : "Bronwen",
       "screen_name" : "bronwen",
       "indices" : [ 132, 140 ],
       "id_str" : "749333",
@@ -3001,7 +2996,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bronwen Clune",
+      "name" : "Bronwen",
       "screen_name" : "bronwen",
       "indices" : [ 0, 8 ],
       "id_str" : "749333",
@@ -3034,7 +3029,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bronwen Clune",
+      "name" : "Bronwen",
       "screen_name" : "bronwen",
       "indices" : [ 0, 8 ],
       "id_str" : "749333",

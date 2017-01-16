@@ -69,26 +69,21 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "613640185687879680",
   "geo" : { },
   "id_str" : "613650182358458369",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k minecraft on a real actual computer. Non of that tablet nonsense.",
   "id" : 613650182358458369,
-  "in_reply_to_status_id" : 613640185687879680,
   "created_at" : "2015-06-24 10:09:39 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -129,7 +124,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bronwen Clune",
+      "name" : "Bronwen",
       "screen_name" : "bronwen",
       "indices" : [ 0, 8 ],
       "id_str" : "749333",
@@ -239,12 +234,7 @@ Grailbird.data.tweets_2015_06 =
       "text" : "SEO",
       "indices" : [ 37, 41 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/lLGrimfZgh",
-      "expanded_url" : "https:\/\/99designs.wufoo.com\/forms\/wanted-seo-product-lead-for-99designs\/",
-      "display_url" : "99designs.wufoo.com\/forms\/wanted-s\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "611868653370257408",
@@ -275,7 +265,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "mirandalb",
       "protected" : false,
       "id_str" : "22107633",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679444832809431040\/DZKX9H6d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/781508668567072769\/pRAQ90Hu_normal.jpg",
       "id" : 22107633,
       "verified" : false
     }
@@ -686,7 +676,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Max Wheeler \u2615\uFE0F",
+      "name" : "Max Wheeler \u270C\uD83C\uDFFD\uFE0F",
       "screen_name" : "makenosound",
       "indices" : [ 0, 12 ],
       "id_str" : "66013",
@@ -725,7 +715,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "650323",
       "id" : 650323
     }, {
-      "name" : "Max Wheeler \u2615\uFE0F",
+      "name" : "Max Wheeler \u270C\uD83C\uDFFD\uFE0F",
       "screen_name" : "makenosound",
       "indices" : [ 14, 26 ],
       "id_str" : "66013",
@@ -912,7 +902,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2660\uFE0E\u2408\u2660\uFE0E",
+      "name" : "Ben Schwarz",
       "screen_name" : "benschwarz",
       "indices" : [ 3, 14 ],
       "id_str" : "14431882",
@@ -920,12 +910,7 @@ Grailbird.data.tweets_2015_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/jN0yjB1OwD",
-      "expanded_url" : "https:\/\/view-source-radboats.herokuapp.com",
-      "display_url" : "view-source-radboats.herokuapp.com"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "605591563729633280",
@@ -949,11 +934,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 605590675837435904,
     "created_at" : "2015-06-02 04:24:03 +0000",
     "user" : {
-      "name" : "\u2660\uFE0E\u2408\u2660\uFE0E",
+      "name" : "Ben Schwarz",
       "screen_name" : "benschwarz",
       "protected" : false,
       "id_str" : "14431882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712198340084178944\/a-KWDIis_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/720362620650266624\/CgJH0nOi_normal.jpg",
       "id" : 14431882,
       "verified" : false
     }

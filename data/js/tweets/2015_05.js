@@ -3,7 +3,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mabl\u00E6",
+      "name" : "Malte Bl\u00E4ttermann",
       "screen_name" : "mablae",
       "indices" : [ 0, 7 ],
       "id_str" : "21832988",
@@ -58,7 +58,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Max Wheeler \u2615\uFE0F",
+      "name" : "Max Wheeler \u270C\uD83C\uDFFD\uFE0F",
       "screen_name" : "makenosound",
       "indices" : [ 0, 12 ],
       "id_str" : "66013",
@@ -91,26 +91,21 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "604453678527881216",
   "geo" : { },
   "id_str" : "604530063489429504",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k when are we drafting her onto our team at work? She can\u2019t be much worse than me",
   "id" : 604530063489429504,
-  "in_reply_to_status_id" : 604453678527881216,
   "created_at" : "2015-05-30 06:09:33 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -353,7 +348,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "really angry woman",
+      "name" : "jess",
       "screen_name" : "thatwearwolf",
       "indices" : [ 0, 13 ],
       "id_str" : "11282472",
@@ -387,7 +382,7 @@ Grailbird.data.tweets_2015_05 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/602226102690566144\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/602226102690566144\/photo\/1",
       "indices" : [ 39, 61 ],
       "url" : "http:\/\/t.co\/phlqU6ybrB",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CFuJcgoUEAAE0VO.jpg",
@@ -698,7 +693,7 @@ Grailbird.data.tweets_2015_05 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/599477714572021760\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/599477714572021760\/photo\/1",
       "indices" : [ 17, 39 ],
       "url" : "http:\/\/t.co\/ZvVT6DUtvx",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CFHFzFqUgAAThWP.jpg",
@@ -750,7 +745,7 @@ Grailbird.data.tweets_2015_05 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/599097148513193984\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/599097148513193984\/photo\/1",
       "indices" : [ 32, 54 ],
       "url" : "http:\/\/t.co\/QYR69Hgct0",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CFBrrn0UEAAtFaT.png",
@@ -889,11 +884,11 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -904,16 +899,11 @@ Grailbird.data.tweets_2015_05 =
       "display_url" : "i.imgur.com\/EfASbXH.gif"
     } ]
   },
-  "in_reply_to_status_id_str" : "596478585453449216",
   "geo" : { },
   "id_str" : "596478743129903104",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k http:\/\/t.co\/WrgEXzSdVr",
   "id" : 596478743129903104,
-  "in_reply_to_status_id" : 596478585453449216,
   "created_at" : "2015-05-08 00:56:29 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -967,7 +957,7 @@ Grailbird.data.tweets_2015_05 =
       "id" : 230915736
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/595760185345441793\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/595760185345441793\/photo\/1",
       "indices" : [ 55, 77 ],
       "url" : "http:\/\/t.co\/NCsDrG2EU5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CESQuwPWAAAi496.png",
@@ -1308,7 +1298,7 @@ Grailbird.data.tweets_2015_05 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/594388489656872960\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/594388489656872960\/photo\/1",
       "indices" : [ 14, 36 ],
       "url" : "http:\/\/t.co\/jnQw7ewufa",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CD-xK_bUIAEqrD-.jpg",

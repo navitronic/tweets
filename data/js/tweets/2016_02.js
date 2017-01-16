@@ -25,7 +25,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "keygen.exe boy",
+      "name" : "checksum boy",
       "screen_name" : "zzap",
       "indices" : [ 0, 5 ],
       "id_str" : "383323",
@@ -59,7 +59,7 @@ Grailbird.data.tweets_2016_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/703736557203644420\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/703736557203644420\/photo\/1",
       "indices" : [ 5, 28 ],
       "url" : "https:\/\/t.co\/AKVCbxeNDn",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CcQsqt_UcAAd2cY.jpg",
@@ -110,11 +110,11 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     }, {
       "name" : "Lachlan Donald",
       "screen_name" : "lox",
@@ -126,16 +126,11 @@ Grailbird.data.tweets_2016_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "703060997062336512",
   "geo" : { },
   "id_str" : "703066741862064129",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k @lox But one is a cocktail recipe app. Which is kinda brilliant",
   "id" : 703066741862064129,
-  "in_reply_to_status_id" : 703060997062336512,
   "created_at" : "2016-02-26 03:59:08 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -150,7 +145,7 @@ Grailbird.data.tweets_2016_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/703038256611401728\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/703038256611401728\/photo\/1",
       "indices" : [ 40, 63 ],
       "url" : "https:\/\/t.co\/mZY74Ch9ef",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CcGxkMSUkAAGtFc.jpg",
@@ -201,7 +196,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "easter bort name",
+      "name" : "eat my borts",
       "screen_name" : "bortofdarkness",
       "indices" : [ 0, 15 ],
       "id_str" : "2907731137",
@@ -257,7 +252,7 @@ Grailbird.data.tweets_2016_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/700139074619715584\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/700139074619715584\/photo\/1",
       "indices" : [ 53, 76 ],
       "url" : "https:\/\/t.co\/CXKVua7oGl",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CbdkxnyUUAAKRSN.jpg",

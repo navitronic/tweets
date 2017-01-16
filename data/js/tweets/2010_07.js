@@ -102,7 +102,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -1491,7 +1491,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -1601,7 +1601,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -2632,7 +2632,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -3083,7 +3083,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -3276,7 +3276,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",
@@ -3722,7 +3722,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -4025,7 +4025,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -4124,7 +4124,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -4575,7 +4575,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "8990932",
       "id" : 8990932
     }, {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 14, 22 ],
       "id_str" : "7709732",
@@ -4608,7 +4608,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -5137,7 +5137,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -5434,7 +5434,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",

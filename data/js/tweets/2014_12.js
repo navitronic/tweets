@@ -30,7 +30,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bronwen Clune",
+      "name" : "Bronwen",
       "screen_name" : "bronwen",
       "indices" : [ 0, 8 ],
       "id_str" : "749333",
@@ -521,26 +521,21 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "545002758256852992",
   "geo" : { },
   "id_str" : "545003718840553472",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k clapping-guy.gif",
   "id" : 545003718840553472,
-  "in_reply_to_status_id" : 545002758256852992,
   "created_at" : "2014-12-16 23:53:06 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -631,26 +626,21 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "543569896219488256",
   "geo" : { },
   "id_str" : "543575066462519296",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k that does not sound fun. Hope the little one is ok and some strands of your sanity remain.",
   "id" : 543575066462519296,
-  "in_reply_to_status_id" : 543569896219488256,
   "created_at" : "2014-12-13 01:16:09 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -796,7 +786,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Antichris Wainhouse",
+      "name" : "Chris Wainhouse",
       "screen_name" : "ChrisWainhouse",
       "indices" : [ 3, 18 ],
       "id_str" : "27396784",
@@ -823,7 +813,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 540345710470647809,
     "created_at" : "2014-12-04 03:23:51 +0000",
     "user" : {
-      "name" : "Antichris Wainhouse",
+      "name" : "Chris Wainhouse",
       "screen_name" : "ChrisWainhouse",
       "protected" : false,
       "id_str" : "27396784",
@@ -880,7 +870,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jayne.",
+      "name" : "Jayne McCartney",
       "screen_name" : "indydreaming",
       "indices" : [ 0, 13 ],
       "id_str" : "45725921",
@@ -913,7 +903,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jayne.",
+      "name" : "Jayne McCartney",
       "screen_name" : "indydreaming",
       "indices" : [ 0, 13 ],
       "id_str" : "45725921",
@@ -951,7 +941,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jayne.",
+      "name" : "Jayne McCartney",
       "screen_name" : "indydreaming",
       "indices" : [ 0, 13 ],
       "id_str" : "45725921",
@@ -984,7 +974,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jayne.",
+      "name" : "Jayne McCartney",
       "screen_name" : "indydreaming",
       "indices" : [ 0, 13 ],
       "id_str" : "45725921",
@@ -1017,26 +1007,21 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "540284822048894977",
   "geo" : { },
   "id_str" : "540285526528360448",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k justified laughter given this mornings storytime.",
   "id" : 540285526528360448,
-  "in_reply_to_status_id" : 540284822048894977,
   "created_at" : "2014-12-03 23:24:42 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1061,12 +1046,7 @@ Grailbird.data.tweets_2014_12 =
       "text" : "MelbCSS",
       "indices" : [ 13, 21 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/2te1TtEDKJ",
-      "expanded_url" : "http:\/\/www.meetup.com\/MelbCSS\/events\/189048772\/",
-      "display_url" : "meetup.com\/MelbCSS\/events\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "539597899634462721",

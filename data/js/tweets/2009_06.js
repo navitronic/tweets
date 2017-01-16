@@ -870,7 +870,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",
@@ -3878,7 +3878,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Benjamin",
+      "name" : "Dan Benjamin \uD83E\uDD20",
       "screen_name" : "danbenjamin",
       "indices" : [ 0, 12 ],
       "id_str" : "5905672",

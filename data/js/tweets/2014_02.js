@@ -263,27 +263,16 @@ Grailbird.data.tweets_2014_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jerp",
-      "screen_name" : "jess_is_rad",
-      "indices" : [ 0, 12 ],
-      "id_str" : "513983765",
-      "id" : 513983765
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "435658179674783744",
   "geo" : { },
   "id_str" : "435658546537984000",
-  "in_reply_to_user_id" : 513983765,
   "text" : "@jess_is_rad much, much worse. But then also\u2026 we might be overthinking it entirely.",
   "id" : 435658546537984000,
-  "in_reply_to_status_id" : 435658179674783744,
   "created_at" : "2014-02-18 06:14:26 +0000",
-  "in_reply_to_screen_name" : "jess_is_rad",
-  "in_reply_to_user_id_str" : "513983765",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -296,27 +285,16 @@ Grailbird.data.tweets_2014_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jerp",
-      "screen_name" : "jess_is_rad",
-      "indices" : [ 0, 12 ],
-      "id_str" : "513983765",
-      "id" : 513983765
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "435657684314894337",
   "geo" : { },
   "id_str" : "435657953954107393",
-  "in_reply_to_user_id" : 513983765,
   "text" : "@jess_is_rad it could be worse, you could be wearing duelling brands. eg, vans and a converse t shirt.",
   "id" : 435657953954107393,
-  "in_reply_to_status_id" : 435657684314894337,
   "created_at" : "2014-02-18 06:12:05 +0000",
-  "in_reply_to_screen_name" : "jess_is_rad",
-  "in_reply_to_user_id_str" : "513983765",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -369,7 +347,7 @@ Grailbird.data.tweets_2014_02 =
       "id_str" : "17803710",
       "id" : 17803710
     }, {
-      "name" : "Jor-El",
+      "name" : "\uD3EC\uD654 \uC2E0\uD559 \uAC10\uC790",
       "screen_name" : "darxtorm",
       "indices" : [ 19, 28 ],
       "id_str" : "169038548",
@@ -414,7 +392,7 @@ Grailbird.data.tweets_2014_02 =
       "id_str" : "17803710",
       "id" : 17803710
     }, {
-      "name" : "Jor-El",
+      "name" : "\uD3EC\uD654 \uC2E0\uD559 \uAC10\uC790",
       "screen_name" : "darxtorm",
       "indices" : [ 19, 28 ],
       "id_str" : "169038548",

@@ -134,7 +134,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -376,13 +376,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "bailey",
-      "screen_name" : "ecphasis",
-      "indices" : [ 0, 9 ],
-      "id_str" : "2183052702",
-      "id" : 2183052702
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -551,7 +545,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "24334002",
       "id" : 24334002
     }, {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 12, 20 ],
       "id_str" : "7709732",
@@ -693,7 +687,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 94328244312080384,
   "in_reply_to_status_id" : 94324446315282432,
   "created_at" : "2011-07-22 08:49:40 +0000",
-  "in_reply_to_screen_name" : "Licensed2Krill",
+  "in_reply_to_screen_name" : "SexyMagikarp_",
   "in_reply_to_user_id_str" : "19766103",
   "user" : {
     "name" : "Adrian",
@@ -818,7 +812,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "yuck boy",
+      "name" : "checksum boy",
       "screen_name" : "zzap",
       "indices" : [ 0, 5 ],
       "id_str" : "383323",
@@ -849,7 +843,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "yuck boy",
+      "name" : "checksum boy",
       "screen_name" : "zzap",
       "indices" : [ 0, 5 ],
       "id_str" : "383323",
@@ -1032,7 +1026,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 93933502113914880,
   "in_reply_to_status_id" : 93933360048652288,
   "created_at" : "2011-07-21 06:41:06 +0000",
-  "in_reply_to_screen_name" : "Licensed2Krill",
+  "in_reply_to_screen_name" : "SexyMagikarp_",
   "in_reply_to_user_id_str" : "19766103",
   "user" : {
     "name" : "Adrian",
@@ -1512,13 +1506,13 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "19393892",
       "id" : 19393892
     }, {
-      "name" : "Daniel Olivares",
+      "name" : "Daniel Olivares \uD83D\uDC35",
       "screen_name" : "TheMonkeyBoy",
       "indices" : [ 74, 87 ],
       "id_str" : "15045209",
       "id" : 15045209
     }, {
-      "name" : "Simon Nix-Carnell",
+      "name" : "Simon + On + On",
       "screen_name" : "simonnix",
       "indices" : [ 88, 97 ],
       "id_str" : "35695136",
@@ -1979,7 +1973,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Nix-Carnell",
+      "name" : "Simon + On + On",
       "screen_name" : "simonnix",
       "indices" : [ 3, 12 ],
       "id_str" : "35695136",
@@ -2006,7 +2000,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 91646570981883904,
     "created_at" : "2011-07-14 23:13:39 +0000",
     "user" : {
-      "name" : "Simon Nix-Carnell",
+      "name" : "Simon + On + On",
       "screen_name" : "simonnix",
       "protected" : false,
       "id_str" : "35695136",
@@ -2118,7 +2112,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -2412,7 +2406,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -2506,13 +2500,13 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "7089552",
       "id" : 7089552
     }, {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 57, 71 ],
       "id_str" : "16825527",
       "id" : 16825527
     }, {
-      "name" : "Daniel Olivares",
+      "name" : "Daniel Olivares \uD83D\uDC35",
       "screen_name" : "TheMonkeyBoy",
       "indices" : [ 72, 85 ],
       "id_str" : "15045209",
@@ -2530,7 +2524,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "19393892",
       "id" : 19393892
     }, {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 121, 129 ],
       "id_str" : "7709732",
@@ -2613,7 +2607,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -2740,7 +2734,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -2795,7 +2789,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "yuck boy",
+      "name" : "checksum boy",
       "screen_name" : "zzap",
       "indices" : [ 3, 8 ],
       "id_str" : "383323",
@@ -2822,7 +2816,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 87697263425617920,
     "created_at" : "2011-07-04 01:40:31 +0000",
     "user" : {
-      "name" : "yuck boy",
+      "name" : "checksum boy",
       "screen_name" : "zzap",
       "protected" : false,
       "id_str" : "383323",

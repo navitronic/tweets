@@ -609,7 +609,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Olivares",
+      "name" : "Daniel Olivares \uD83D\uDC35",
       "screen_name" : "TheMonkeyBoy",
       "indices" : [ 0, 13 ],
       "id_str" : "15045209",
@@ -1501,7 +1501,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/favstar.fm\" rel=\"nofollow\"\u003EFavstar.FM\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Pinckney",
+      "name" : "cpinck",
       "screen_name" : "cpinck",
       "indices" : [ 3, 10 ],
       "id_str" : "23806129",
@@ -1528,7 +1528,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 8906696740,
     "created_at" : "2010-02-10 15:57:02 +0000",
     "user" : {
-      "name" : "Chris Pinckney",
+      "name" : "cpinck",
       "screen_name" : "cpinck",
       "protected" : false,
       "id_str" : "23806129",
@@ -1552,7 +1552,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -2279,7 +2279,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -2554,7 +2554,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -2587,7 +2587,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -2648,7 +2648,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -2910,7 +2910,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -3186,7 +3186,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",

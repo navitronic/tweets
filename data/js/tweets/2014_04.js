@@ -104,7 +104,7 @@ Grailbird.data.tweets_2014_04 =
       "id" : 436713887
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/458862284157116416\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/458862284157116416\/photo\/1",
       "indices" : [ 69, 91 ],
       "url" : "http:\/\/t.co\/ypRQMAEvYF",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bl40zt-CYAAQyaf.jpg",

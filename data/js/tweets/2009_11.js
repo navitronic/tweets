@@ -267,7 +267,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -617,7 +617,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -1568,7 +1568,7 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "1593073225",
       "id" : 1593073225
     }, {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 56, 64 ],
       "id_str" : "7709732",
@@ -2760,7 +2760,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -3895,7 +3895,7 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "1153675243",
       "id" : 1153675243
     }, {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 9, 17 ],
       "id_str" : "7709732",
@@ -4239,26 +4239,21 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathleen Joy",
+      "name" : "Sie",
       "screen_name" : "kissability",
       "indices" : [ 0, 12 ],
-      "id_str" : "5447072",
-      "id" : 5447072
+      "id_str" : "797151622207934464",
+      "id" : 797151622207934464
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "5676861831",
   "geo" : { },
   "id_str" : "5677014054",
-  "in_reply_to_user_id" : 5447072,
   "text" : "@kissability maybe they're scared of being better people, not that lesbians are necessarily better, just more likely to be into good music.",
   "id" : 5677014054,
-  "in_reply_to_status_id" : 5676861831,
   "created_at" : "2009-11-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kissability",
-  "in_reply_to_user_id_str" : "5447072",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -5108,7 +5103,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",

@@ -677,7 +677,7 @@ Grailbird.data.tweets_2009_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "J\u1D07F\u1D1C\u0280\u0280\u028F ( \u0361\u00B0 \u035C\u0296 \u0361\u00B0)",
+      "name" : "Jeffery Lay",
       "screen_name" : "JeFurry",
       "indices" : [ 0, 8 ],
       "id_str" : "14060524",
@@ -1387,6 +1387,12 @@ Grailbird.data.tweets_2009_01 =
       "indices" : [ 30, 41 ],
       "id_str" : "10810102",
       "id" : 10810102
+    }, {
+      "name" : "Stephen Fry",
+      "screen_name" : "stephenfry",
+      "indices" : [ 61, 72 ],
+      "id_str" : "15439395",
+      "id" : 15439395
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1700,16 +1706,27 @@ Grailbird.data.tweets_2009_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Stephen Fry",
+      "screen_name" : "stephenfry",
+      "indices" : [ 0, 11 ],
+      "id_str" : "15439395",
+      "id" : 15439395
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "1125536750",
   "geo" : { },
   "id_str" : "1125562679",
+  "in_reply_to_user_id" : 15439395,
   "text" : "@stephenfry pretty weird. Am looking at the opera house right now from pretty much the same angle.  http:\/\/twitpic.com\/13onu",
   "id" : 1125562679,
+  "in_reply_to_status_id" : 1125536750,
   "created_at" : "2009-01-17 00:00:00 +0000",
+  "in_reply_to_screen_name" : "stephenfry",
+  "in_reply_to_user_id_str" : "15439395",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",

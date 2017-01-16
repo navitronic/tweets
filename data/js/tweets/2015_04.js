@@ -28,26 +28,21 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "593574878457954304",
   "geo" : { },
   "id_str" : "593575156980678656",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k nope. Are something dodgey last night. It left my body quite violently at 4am. &gt;&lt;",
   "id" : 593575156980678656,
-  "in_reply_to_status_id" : 593574878457954304,
   "created_at" : "2015-04-30 00:38:40 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -157,12 +152,7 @@ Grailbird.data.tweets_2015_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/LpZhMnkl0G",
-      "expanded_url" : "http:\/\/www.theglobalwomensproject.bigcartel.com\/",
-      "display_url" : "theglobalwomensproject.bigcartel.com"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "593205479154692096",
@@ -1032,7 +1022,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mandy Michael",
+      "name" : "Mandy",
       "screen_name" : "Mandy_Kerr",
       "indices" : [ 0, 11 ],
       "id_str" : "42413226",
@@ -1175,11 +1165,11 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "15630518",
       "id" : 15630518
     }, {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 11, 20 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     }, {
       "name" : "Mark Dalgleish",
       "screen_name" : "markdalgleish",

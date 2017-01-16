@@ -16,7 +16,7 @@ Grailbird.data.tweets_2014_10 =
       "id" : 3366477419
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/johnbarton\/status\/528072025135255552\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/johnbarton\/status\/528072025135255552\/photo\/1",
       "indices" : [ 46, 68 ],
       "url" : "http:\/\/t.co\/ICErDhUu7k",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B1QWtTtCUAEaNFr.jpg",
@@ -63,7 +63,7 @@ Grailbird.data.tweets_2014_10 =
         "id" : 3366477419
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/johnbarton\/status\/528072025135255552\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/johnbarton\/status\/528072025135255552\/photo\/1",
         "indices" : [ 30, 52 ],
         "url" : "http:\/\/t.co\/ICErDhUu7k",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B1QWtTtCUAEaNFr.jpg",
@@ -197,7 +197,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bronwen Clune",
+      "name" : "Bronwen",
       "screen_name" : "bronwen",
       "indices" : [ 0, 8 ],
       "id_str" : "749333",
@@ -489,7 +489,7 @@ Grailbird.data.tweets_2014_10 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/525097525062033408\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/525097525062033408\/photo\/1",
       "indices" : [ 51, 73 ],
       "url" : "http:\/\/t.co\/fQ2BGjw61s",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B0mFafiCUAAT7ru.png",
@@ -553,7 +553,7 @@ Grailbird.data.tweets_2014_10 =
       "id" : 9866922
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/johnbarton\/status\/525092377665368064\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/johnbarton\/status\/525092377665368064\/photo\/1",
       "indices" : [ 63, 85 ],
       "url" : "http:\/\/t.co\/xnTKjouME5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B0mAu_3CAAElBdc.png",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2014_10 =
         "id" : 9866922
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/johnbarton\/status\/525092377665368064\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/johnbarton\/status\/525092377665368064\/photo\/1",
         "indices" : [ 47, 69 ],
         "url" : "http:\/\/t.co\/xnTKjouME5",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/B0mAu_3CAAElBdc.png",
@@ -1086,26 +1086,21 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "520046439641006080",
   "geo" : { },
   "id_str" : "520046767652352000",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k it will be a noble death",
   "id" : 520046767652352000,
-  "in_reply_to_status_id" : 520046439641006080,
   "created_at" : "2014-10-09 03:03:06 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1386,69 +1381,6 @@ Grailbird.data.tweets_2014_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
-      "indices" : [ 3, 12 ],
-      "id_str" : "26373033",
-      "id" : 26373033
-    }, {
-      "name" : "Flight",
-      "screen_name" : "flightjs",
-      "indices" : [ 21, 30 ],
-      "id_str" : "1143935214",
-      "id" : 1143935214
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "519069756289060865",
-  "text" : "RT @andrew_k: If any @flightjs users have jasmine-flight working with webpack I'd really appreciate seeing the karma config you're using!",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Flight",
-        "screen_name" : "flightjs",
-        "indices" : [ 7, 16 ],
-        "id_str" : "1143935214",
-        "id" : 1143935214
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "519040464830210048",
-    "text" : "If any @flightjs users have jasmine-flight working with webpack I'd really appreciate seeing the karma config you're using!",
-    "id" : 519040464830210048,
-    "created_at" : "2014-10-06 08:24:24 +0000",
-    "user" : {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
-      "protected" : false,
-      "id_str" : "26373033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452748120988733442\/09DPATtE_normal.jpeg",
-      "id" : 26373033,
-      "verified" : false
-    }
-  },
-  "id" : 519069756289060865,
-  "created_at" : "2014-10-06 10:20:48 +0000",
-  "user" : {
-    "name" : "Adrian",
-    "screen_name" : "navitronic",
-    "protected" : false,
-    "id_str" : "9866922",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653380684141084672\/B0drsVvL_normal.jpg",
-    "id" : 9866922,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1559,7 +1491,7 @@ Grailbird.data.tweets_2014_10 =
       "id" : 103760901
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/SHOUTCLOUDIO\/status\/517817077982187520\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/SHOUTCLOUDIO\/status\/517817077982187520\/photo\/1",
       "indices" : [ 49, 71 ],
       "url" : "http:\/\/t.co\/4GpAvr8TBU",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/By-n43mCIAA2Uzu.jpg",
@@ -1606,7 +1538,7 @@ Grailbird.data.tweets_2014_10 =
         "id" : 103760901
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/SHOUTCLOUDIO\/status\/517817077982187520\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/SHOUTCLOUDIO\/status\/517817077982187520\/photo\/1",
         "indices" : [ 31, 53 ],
         "url" : "http:\/\/t.co\/4GpAvr8TBU",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/By-n43mCIAA2Uzu.jpg",
@@ -1768,7 +1700,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brendan Kearns",
+      "name" : "Brendan \u25D4_\u25D4",
       "screen_name" : "Brendan_Kearns",
       "indices" : [ 0, 15 ],
       "id_str" : "130064294",

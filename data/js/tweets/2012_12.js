@@ -170,7 +170,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "108736925",
       "id" : 108736925
     }, {
-      "name" : "Ryan McCue \u2368",
+      "name" : "Ryan McCue \u2600\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 11, 18 ],
       "id_str" : "6306542",
@@ -282,7 +282,7 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/281712273683259392\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/281712273683259392\/photo\/1",
       "indices" : [ 17, 37 ],
       "url" : "http:\/\/t.co\/igG9d0e9",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A-jX0gICIAAokOW.jpg",
@@ -374,7 +374,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "verge",
       "protected" : false,
       "id_str" : "275686563",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615501837341466624\/I4jVBBp-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793336456718782464\/cf1nuXC0_normal.jpg",
       "id" : 275686563,
       "verified" : true
     }
@@ -856,13 +856,13 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Olivares",
+      "name" : "Daniel Olivares \uD83D\uDC35",
       "screen_name" : "TheMonkeyBoy",
       "indices" : [ 0, 13 ],
       "id_str" : "15045209",
       "id" : 15045209
     }, {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 14, 19 ],
       "id_str" : "816717",
@@ -1325,37 +1325,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "12047992",
       "id" : 12047992
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/shauninman\/status\/277882722922405889\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/lox65hiA",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/A9s83T2CIAA6d9_.png",
-      "id_str" : "277882722930794496",
-      "id" : 277882722930794496,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A9s83T2CIAA6d9_.png",
-      "sizes" : [ {
-        "h" : 500,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 340,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 500,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 500,
-        "resize" : "fit",
-        "w" : 500
-      } ],
-      "display_url" : "pic.twitter.com\/lox65hiA"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 87, 107 ],
@@ -1372,7 +1342,7 @@ Grailbird.data.tweets_2012_12 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/shauninman\/status\/277882722922405889\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/shauninman\/status\/277882722922405889\/photo\/1",
         "indices" : [ 120, 140 ],
         "url" : "http:\/\/t.co\/lox65hiA",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/A9s83T2CIAA6d9_.png",
@@ -1919,7 +1889,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -1974,7 +1944,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",

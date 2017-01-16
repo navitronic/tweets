@@ -357,7 +357,7 @@ Grailbird.data.tweets_2013_05 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/338170911775653889\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/338170911775653889\/photo\/1",
       "indices" : [ 41, 63 ],
       "url" : "http:\/\/t.co\/iVe4sIAn3k",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BLFspw5CAAAWwwj.jpg",
@@ -1219,7 +1219,7 @@ Grailbird.data.tweets_2013_05 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/334631733674782720\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/334631733674782720\/photo\/1",
       "indices" : [ 40, 62 ],
       "url" : "http:\/\/t.co\/KCVpSEyhUQ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BKTZyfCCMAIovp9.jpg",
@@ -2164,7 +2164,7 @@ Grailbird.data.tweets_2013_05 =
       "id" : 8615262
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/329390791468400640\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/329390791468400640\/photo\/1",
       "indices" : [ 114, 136 ],
       "url" : "http:\/\/t.co\/ljJzeInjMJ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BJI7Lf4CQAENkcd.png",

@@ -625,26 +625,21 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathleen Joy",
+      "name" : "Sie",
       "screen_name" : "kissability",
       "indices" : [ 0, 12 ],
-      "id_str" : "5447072",
-      "id" : 5447072
+      "id_str" : "797151622207934464",
+      "id" : 797151622207934464
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "5165105421",
   "geo" : { },
   "id_str" : "5165136908",
-  "in_reply_to_user_id" : 5447072,
   "text" : "@kissability img \u007B border: 0px; \u007D",
   "id" : 5165136908,
-  "in_reply_to_status_id" : 5165105421,
   "created_at" : "2009-10-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kissability",
-  "in_reply_to_user_id_str" : "5447072",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1748,7 +1743,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -2155,7 +2150,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -3814,7 +3809,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",

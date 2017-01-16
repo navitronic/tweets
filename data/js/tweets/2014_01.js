@@ -220,7 +220,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Glen Maddern",
+      "name" : "Glen Maddern \uD83D\uDE0E",
       "screen_name" : "glenmaddern",
       "indices" : [ 0, 12 ],
       "id_str" : "16664291",
@@ -253,7 +253,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Glen Maddern",
+      "name" : "Glen Maddern \uD83D\uDE0E",
       "screen_name" : "glenmaddern",
       "indices" : [ 0, 12 ],
       "id_str" : "16664291",
@@ -321,7 +321,7 @@ Grailbird.data.tweets_2014_01 =
       "id" : 272529059
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Tate\/status\/420956244380106752\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/Tate\/status\/420956244380106752\/photo\/1",
       "indices" : [ 107, 129 ],
       "url" : "http:\/\/t.co\/aZdftO8dYX",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BdeJeVSCQAA_2jl.jpg",
@@ -373,7 +373,7 @@ Grailbird.data.tweets_2014_01 =
         "id" : 272529059
       } ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/Tate\/status\/420956244380106752\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/Tate\/status\/420956244380106752\/photo\/1",
         "indices" : [ 97, 119 ],
         "url" : "http:\/\/t.co\/aZdftO8dYX",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BdeJeVSCQAA_2jl.jpg",
@@ -421,7 +421,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "Tate",
       "protected" : false,
       "id_str" : "5225991",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1326615844\/twitterlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736196641808605184\/DH0MLTKg_normal.jpg",
       "id" : 5225991,
       "verified" : true
     }
@@ -463,7 +463,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -503,7 +503,7 @@ Grailbird.data.tweets_2014_01 =
       "id" : 14656430
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/gorminator\/status\/418463074749022208\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/gorminator\/status\/418463074749022208\/photo\/1",
       "indices" : [ 100, 122 ],
       "url" : "http:\/\/t.co\/2np12DT4j9",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bc6t8wDIUAAJ_B8.jpg",
@@ -552,7 +552,7 @@ Grailbird.data.tweets_2014_01 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/gorminator\/status\/418463074749022208\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/gorminator\/status\/418463074749022208\/photo\/1",
         "indices" : [ 84, 106 ],
         "url" : "http:\/\/t.co\/2np12DT4j9",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/Bc6t8wDIUAAJ_B8.jpg",

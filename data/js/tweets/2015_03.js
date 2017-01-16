@@ -91,26 +91,21 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "582363688218152960",
   "geo" : { },
   "id_str" : "582363793105162240",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k far, far away.",
   "id" : 582363793105162240,
-  "in_reply_to_status_id" : 582363688218152960,
   "created_at" : "2015-03-30 02:08:42 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -521,11 +516,11 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     }, {
       "name" : "John Barton",
       "screen_name" : "johnbarton",
@@ -537,16 +532,11 @@ Grailbird.data.tweets_2015_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "579806946640859137",
   "geo" : { },
   "id_str" : "579807520174125056",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k @johnbarton you're welcome.",
   "id" : 579807520174125056,
-  "in_reply_to_status_id" : 579806946640859137,
   "created_at" : "2015-03-23 00:50:59 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -560,26 +550,21 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "579776065012310016",
   "geo" : { },
   "id_str" : "579776581230600192",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k are we allowed to ask that question about your new \"all the bacon, all the time\" diet?",
   "id" : 579776581230600192,
-  "in_reply_to_status_id" : 579776065012310016,
   "created_at" : "2015-03-22 22:48:03 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -647,11 +632,11 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     }, {
       "name" : "Melissa Kaulfuss",
       "screen_name" : "MelissaKaulfuss",
@@ -669,16 +654,11 @@ Grailbird.data.tweets_2015_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "578003973698764800",
   "geo" : { },
   "id_str" : "578005412194091008",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k @MelissaKaulfuss @markdalgleish and you definitely ship an MVP initially.",
   "id" : 578005412194091008,
-  "in_reply_to_status_id" : 578003973698764800,
   "created_at" : "2015-03-18 01:30:03 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1203,26 +1183,21 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "572657147323891713",
   "geo" : { },
   "id_str" : "572659130306961408",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k :disappointed:",
   "id" : 572659130306961408,
-  "in_reply_to_status_id" : 572657147323891713,
   "created_at" : "2015-03-03 07:25:50 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",

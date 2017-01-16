@@ -202,7 +202,7 @@ Grailbird.data.tweets_2015_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/647235551335084032\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/647235551335084032\/photo\/1",
       "indices" : [ 24, 46 ],
       "url" : "http:\/\/t.co\/Pf0oQBaSpR",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CPtxTZpU8AEtDdG.jpg",
@@ -548,26 +548,21 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "643372854503845889",
   "geo" : { },
   "id_str" : "643380578348208128",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k TEACH HER YAML!",
   "id" : 643380578348208128,
-  "in_reply_to_status_id" : 643372854503845889,
   "created_at" : "2015-09-14 11:07:37 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -581,7 +576,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "colley",
+      "name" : "Colley",
       "screen_name" : "JamColley",
       "indices" : [ 3, 13 ],
       "id_str" : "99394501",
@@ -608,11 +603,11 @@ Grailbird.data.tweets_2015_09 =
     "id" : 643324275924070400,
     "created_at" : "2015-09-14 07:23:54 +0000",
     "user" : {
-      "name" : "colley",
+      "name" : "Colley",
       "screen_name" : "JamColley",
       "protected" : false,
       "id_str" : "99394501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703114849509707778\/f2HSckG0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820748067599060992\/r4GdorBI_normal.jpg",
       "id" : 99394501,
       "verified" : true
     }
@@ -710,7 +705,7 @@ Grailbird.data.tweets_2015_09 =
       "id" : 345882217
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/offscreenmag\/status\/643240978388664320\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/offscreenmag\/status\/643240978388664320\/photo\/1",
       "indices" : [ 112, 134 ],
       "url" : "http:\/\/t.co\/xEf4qB7RhI",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/CO1AQs7UYAAGcSv.jpg",
@@ -756,7 +751,7 @@ Grailbird.data.tweets_2015_09 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/offscreenmag\/status\/643240978388664320\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/offscreenmag\/status\/643240978388664320\/photo\/1",
         "indices" : [ 94, 116 ],
         "url" : "http:\/\/t.co\/xEf4qB7RhI",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/CO1AQs7UYAAGcSv.jpg",
@@ -804,7 +799,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "offscreenmag",
       "protected" : false,
       "id_str" : "345882217",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615746626099941380\/xnHhenfj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819448423631859712\/vLUCIYMC_normal.jpg",
       "id" : 345882217,
       "verified" : false
     }
@@ -855,26 +850,21 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "642194391868706816",
   "geo" : { },
   "id_str" : "642194552984440832",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k fucking infuriating.",
   "id" : 642194552984440832,
-  "in_reply_to_status_id" : 642194391868706816,
   "created_at" : "2015-09-11 04:34:47 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -917,7 +907,7 @@ Grailbird.data.tweets_2015_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/641755221056598016\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/641755221056598016\/photo\/1",
       "indices" : [ 43, 65 ],
       "url" : "http:\/\/t.co\/SvqM5rsVwK",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/COf4-GpUcAEYtJb.jpg",
@@ -1134,11 +1124,11 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 44, 53 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],

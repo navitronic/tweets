@@ -375,11 +375,11 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     }, {
       "name" : "John Barton",
       "screen_name" : "johnbarton",
@@ -396,16 +396,11 @@ Grailbird.data.tweets_2014_07 =
       "display_url" : "phpthewrongway.com"
     } ]
   },
-  "in_reply_to_status_id_str" : "492532014994575360",
   "geo" : { },
   "id_str" : "492532393660522496",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k @johnbarton http:\/\/t.co\/iUpaxOPaBq",
   "id" : 492532393660522496,
-  "in_reply_to_status_id" : 492532014994575360,
   "created_at" : "2014-07-25 04:50:48 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -419,7 +414,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -743,7 +738,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -870,7 +865,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -1392,117 +1387,6 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
-      "indices" : [ 3, 12 ],
-      "id_str" : "26373033",
-      "id" : 26373033
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/andrew_k\/status\/484513011684478976\/photo\/1",
-      "indices" : [ 47, 69 ],
-      "url" : "http:\/\/t.co\/uj6E2d9aJT",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BrlWA4uCQAI23UE.jpg",
-      "id_str" : "484513008144498690",
-      "id" : 484513008144498690,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrlWA4uCQAI23UE.jpg",
-      "sizes" : [ {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/uj6E2d9aJT"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "484518430184194048",
-  "text" : "RT @andrew_k: Enterprise grade fraud detection http:\/\/t.co\/uj6E2d9aJT",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/andrew_k\/status\/484513011684478976\/photo\/1",
-        "indices" : [ 33, 55 ],
-        "url" : "http:\/\/t.co\/uj6E2d9aJT",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BrlWA4uCQAI23UE.jpg",
-        "id_str" : "484513008144498690",
-        "id" : 484513008144498690,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrlWA4uCQAI23UE.jpg",
-        "sizes" : [ {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 800,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        }, {
-          "h" : 453,
-          "resize" : "fit",
-          "w" : 340
-        } ],
-        "display_url" : "pic.twitter.com\/uj6E2d9aJT"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "484513011684478976",
-    "text" : "Enterprise grade fraud detection http:\/\/t.co\/uj6E2d9aJT",
-    "id" : 484513011684478976,
-    "created_at" : "2014-07-03 01:44:38 +0000",
-    "user" : {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
-      "protected" : false,
-      "id_str" : "26373033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452748120988733442\/09DPATtE_normal.jpeg",
-      "id" : 26373033,
-      "verified" : false
-    }
-  },
-  "id" : 484518430184194048,
-  "created_at" : "2014-07-03 02:06:10 +0000",
-  "user" : {
-    "name" : "Adrian",
-    "screen_name" : "navitronic",
-    "protected" : false,
-    "id_str" : "9866922",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653380684141084672\/B0drsVvL_normal.jpg",
-    "id" : 9866922,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1513,7 +1397,7 @@ Grailbird.data.tweets_2014_07 =
       "id" : 145899680
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/484258366584135681\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/484258366584135681\/photo\/1",
       "indices" : [ 30, 52 ],
       "url" : "http:\/\/t.co\/ueg7cYmmCF",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BrhuakOCEAAOwZh.jpg",
@@ -1567,7 +1451,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -1600,7 +1484,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",

@@ -492,7 +492,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "15254045",
       "id" : 15254045
     }, {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 32, 40 ],
       "id_str" : "7709732",
@@ -615,7 +615,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "12809522",
       "id" : 12809522
     }, {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 9, 17 ],
       "id_str" : "7709732",
@@ -721,7 +721,7 @@ Grailbird.data.tweets_2013_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/380475990884888577\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/380475990884888577\/photo\/1",
       "indices" : [ 55, 77 ],
       "url" : "http:\/\/t.co\/UpIyhBg9hI",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BUe45dECQAAPALq.png",

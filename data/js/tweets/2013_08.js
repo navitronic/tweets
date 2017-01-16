@@ -47,7 +47,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tarquin Hunnybunce",
+      "name" : "Runcible Chaffbadger",
       "screen_name" : "gilfer",
       "indices" : [ 3, 10 ],
       "id_str" : "6024412",
@@ -74,11 +74,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 371937048979980288,
     "created_at" : "2013-08-26 10:07:57 +0000",
     "user" : {
-      "name" : "Tarquin Hunnybunce",
+      "name" : "Runcible Chaffbadger",
       "screen_name" : "gilfer",
       "protected" : false,
       "id_str" : "6024412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/685961706128982016\/RCc3iPvv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816217800716881920\/2_vtmM0c_normal.jpg",
       "id" : 6024412,
       "verified" : false
     }
@@ -230,7 +230,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -386,7 +386,7 @@ Grailbird.data.tweets_2013_08 =
       "id" : 652953
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/370850515027902464\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/370850515027902464\/photo\/1",
       "indices" : [ 66, 88 ],
       "url" : "http:\/\/t.co\/3fXMDpRd7y",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BSWGlB1CQAAaBx-.png",
@@ -498,7 +498,7 @@ Grailbird.data.tweets_2013_08 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/370711702813147136\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/370711702813147136\/photo\/1",
       "indices" : [ 45, 67 ],
       "url" : "http:\/\/t.co\/bLFqlOHMaj",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BSUIVGDCAAAY7SU.png",
@@ -588,7 +588,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "257765996",
       "id" : 257765996
     }, {
-      "name" : "Glen Maddern",
+      "name" : "Glen Maddern \uD83D\uDE0E",
       "screen_name" : "glenmaddern",
       "indices" : [ 15, 27 ],
       "id_str" : "16664291",
@@ -627,7 +627,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "257765996",
       "id" : 257765996
     }, {
-      "name" : "Glen Maddern",
+      "name" : "Glen Maddern \uD83D\uDE0E",
       "screen_name" : "glenmaddern",
       "indices" : [ 15, 27 ],
       "id_str" : "16664291",
@@ -1309,7 +1309,7 @@ Grailbird.data.tweets_2013_08 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/365627270557220865\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/365627270557220865\/photo\/1",
       "indices" : [ 12, 34 ],
       "url" : "http:\/\/t.co\/8pEiGbBV0i",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BRL4ELaCAAAu5Yw.png",
@@ -1382,7 +1382,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jor-El",
+      "name" : "\uD3EC\uD654 \uC2E0\uD559 \uAC10\uC790",
       "screen_name" : "darxtorm",
       "indices" : [ 0, 9 ],
       "id_str" : "169038548",

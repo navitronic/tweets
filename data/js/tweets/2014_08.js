@@ -31,11 +31,11 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "623706361",
       "id" : 623706361
     }, {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 17, 26 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -175,7 +175,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -237,16 +237,11 @@ Grailbird.data.tweets_2014_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "504559708049383424",
   "geo" : { },
   "id_str" : "504563133751373825",
-  "in_reply_to_user_id" : 2481385423,
   "text" : "@punchyglot phone development stuff. Complete religious snore fest. Other than that ok.",
   "id" : 504563133751373825,
-  "in_reply_to_status_id" : 504559708049383424,
   "created_at" : "2014-08-27 09:36:40 +0000",
-  "in_reply_to_screen_name" : "kaijerk",
-  "in_reply_to_user_id_str" : "2481385423",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -394,7 +389,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -516,7 +511,7 @@ Grailbird.data.tweets_2014_08 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/502243214267408384\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/502243214267408384\/photo\/1",
       "indices" : [ 46, 68 ],
       "url" : "http:\/\/t.co\/JYQhQRdmyC",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BvhTigrCQAAVDLo.jpg",
@@ -570,7 +565,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -609,7 +604,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -686,7 +681,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -750,26 +745,21 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "499361848953540608",
   "geo" : { },
   "id_str" : "499361944449466368",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k how about I merge some shitty css?",
   "id" : 499361944449466368,
-  "in_reply_to_status_id" : 499361848953540608,
   "created_at" : "2014-08-13 01:08:59 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -876,26 +866,21 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "498034739635171329",
   "geo" : { },
   "id_str" : "498057467754864640",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k damn, that\u2019s not good. Hope everything works out ok for the little dude.",
   "id" : 498057467754864640,
-  "in_reply_to_status_id" : 498034739635171329,
   "created_at" : "2014-08-09 10:45:28 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -931,11 +916,11 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     }, {
       "name" : "Myles Eftos",
       "screen_name" : "madpilot",
@@ -947,16 +932,11 @@ Grailbird.data.tweets_2014_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "497628124889112576",
   "geo" : { },
   "id_str" : "497643031948849152",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k @madpilot *adds another layer of YAML indirection just for you*",
   "id" : 497643031948849152,
-  "in_reply_to_status_id" : 497628124889112576,
   "created_at" : "2014-08-08 07:18:39 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1023,14 +1003,14 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 36, 45 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/496875936667545600\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/496875936667545600\/photo\/1",
       "indices" : [ 46, 68 ],
       "url" : "http:\/\/t.co\/a3VAxkNC76",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BuVCB2CCAAAYMMf.png",
@@ -1078,120 +1058,24 @@ Grailbird.data.tweets_2014_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
-      "indices" : [ 3, 12 ],
-      "id_str" : "26373033",
-      "id" : 26373033
-    }, {
-      "name" : "99designs",
-      "screen_name" : "99designs",
-      "indices" : [ 99, 109 ],
-      "id_str" : "3366477419",
-      "id" : 3366477419
-    }, {
-      "name" : "Twitter Flight",
-      "screen_name" : "Flight",
-      "indices" : [ 132, 139 ],
-      "id_str" : "2549012761",
-      "id" : 2549012761
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "JavaScript",
-      "indices" : [ 24, 35 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 70, 92 ],
-      "url" : "http:\/\/t.co\/dUfKyC1Q9n",
-      "expanded_url" : "http:\/\/www.sitepoint.com\/thinking-components\/",
-      "display_url" : "sitepoint.com\/thinking-compo\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "496777655908175873",
-  "text" : "RT @andrew_k: I wrote a #JavaScript thing: \"Thinking in Components\" - http:\/\/t.co\/dUfKyC1Q9n - ft. @99designs production code using @flight",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "99designs",
-        "screen_name" : "99designs",
-        "indices" : [ 85, 95 ],
-        "id_str" : "3366477419",
-        "id" : 3366477419
-      }, {
-        "name" : "Twitter Flight",
-        "screen_name" : "Flight",
-        "indices" : [ 118, 125 ],
-        "id_str" : "2549012761",
-        "id" : 2549012761
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "JavaScript",
-        "indices" : [ 10, 21 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 56, 78 ],
-        "url" : "http:\/\/t.co\/dUfKyC1Q9n",
-        "expanded_url" : "http:\/\/www.sitepoint.com\/thinking-components\/",
-        "display_url" : "sitepoint.com\/thinking-compo\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "496774361462743040",
-    "text" : "I wrote a #JavaScript thing: \"Thinking in Components\" - http:\/\/t.co\/dUfKyC1Q9n - ft. @99designs production code using @flight",
-    "id" : 496774361462743040,
-    "created_at" : "2014-08-05 21:46:52 +0000",
-    "user" : {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
-      "protected" : false,
-      "id_str" : "26373033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452748120988733442\/09DPATtE_normal.jpeg",
-      "id" : 26373033,
-      "verified" : false
-    }
-  },
-  "id" : 496777655908175873,
-  "created_at" : "2014-08-05 21:59:57 +0000",
-  "user" : {
-    "name" : "Adrian",
-    "screen_name" : "navitronic",
-    "protected" : false,
-    "id_str" : "9866922",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/653380684141084672\/B0drsVvL_normal.jpg",
-    "id" : 9866922,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "496543050793893888",
   "geo" : { },
   "id_str" : "496543230901501954",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k and some ghosts should have appeared.",
   "id" : 496543230901501954,
-  "in_reply_to_status_id" : 496543050793893888,
   "created_at" : "2014-08-05 06:28:26 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1205,26 +1089,21 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "496543050793893888",
   "geo" : { },
   "id_str" : "496543155018166272",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k it felt like the end of ROTJ. We should have been burning something in celebration.",
   "id" : 496543155018166272,
-  "in_reply_to_status_id" : 496543050793893888,
   "created_at" : "2014-08-05 06:28:08 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1612,7 +1491,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -1645,11 +1524,11 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     }, {
       "name" : "Chris Corbyn",
       "screen_name" : "d11wtq",
@@ -1661,16 +1540,11 @@ Grailbird.data.tweets_2014_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "495060442520514560",
   "geo" : { },
   "id_str" : "495060688989999105",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k @d11wtq  or const FUTURE_SANITY_THRESHOLD.",
   "id" : 495060688989999105,
-  "in_reply_to_status_id" : 495060442520514560,
   "created_at" : "2014-08-01 04:17:20 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1690,11 +1564,11 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "15267012",
       "id" : 15267012
     }, {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 8, 17 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1723,11 +1597,11 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     }, {
       "name" : "Chris Corbyn",
       "screen_name" : "d11wtq",
@@ -1739,16 +1613,11 @@ Grailbird.data.tweets_2014_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "495058908483174401",
   "geo" : { },
   "id_str" : "495059177538985984",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k @d11wtq south yorkshire fo' life. we haven't met, but I have enjoyed the fruits of his labour many a time, so hello!",
   "id" : 495059177538985984,
-  "in_reply_to_status_id" : 495058908483174401,
   "created_at" : "2014-08-01 04:11:20 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1762,26 +1631,21 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "495056921347383297",
   "geo" : { },
   "id_str" : "495058132234539008",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k or you've just been sat next to me too long.",
   "id" : 495058132234539008,
-  "in_reply_to_status_id" : 495056921347383297,
   "created_at" : "2014-08-01 04:07:11 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",

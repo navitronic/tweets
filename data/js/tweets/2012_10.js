@@ -432,7 +432,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "jdub",
       "protected" : false,
       "id_str" : "4690301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701403772388450308\/SsbreZJu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742394207772385281\/xJKl46jS_normal.jpg",
       "id" : 4690301,
       "verified" : false
     }
@@ -1792,13 +1792,7 @@ Grailbird.data.tweets_2012_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "William",
-      "screen_name" : "Sir__William",
-      "indices" : [ 0, 13 ],
-      "id_str" : "700770420165726208",
-      "id" : 700770420165726208
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1821,7 +1815,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Nix-Carnell",
+      "name" : "Simon + On + On",
       "screen_name" : "simonnix",
       "indices" : [ 0, 9 ],
       "id_str" : "35695136",
@@ -3368,7 +3362,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Aaaaaaaa",
+      "name" : "Stan's Emporium",
       "screen_name" : "spetznatz",
       "indices" : [ 0, 10 ],
       "id_str" : "14427783",
@@ -3401,7 +3395,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Aaaaaaaa",
+      "name" : "Stan's Emporium",
       "screen_name" : "spetznatz",
       "indices" : [ 0, 10 ],
       "id_str" : "14427783",
@@ -3926,7 +3920,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",

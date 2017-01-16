@@ -31,7 +31,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tarquin Hunnybunce",
+      "name" : "Runcible Chaffbadger",
       "screen_name" : "gilfer",
       "indices" : [ 0, 7 ],
       "id_str" : "6024412",
@@ -815,7 +815,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "actually, I",
+      "name" : "nobody in particular",
       "screen_name" : "biorhythmist",
       "indices" : [ 3, 16 ],
       "id_str" : "8067082",
@@ -842,7 +842,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 204728776989487104,
     "created_at" : "2012-05-22 00:21:58 +0000",
     "user" : {
-      "name" : "actually, I",
+      "name" : "nobody in particular",
       "screen_name" : "biorhythmist",
       "protected" : false,
       "id_str" : "8067082",
@@ -1883,7 +1883,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",

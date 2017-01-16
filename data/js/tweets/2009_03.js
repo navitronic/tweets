@@ -1143,7 +1143,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",
@@ -1873,16 +1873,27 @@ Grailbird.data.tweets_2009_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Stephen Fry",
+      "screen_name" : "stephenfry",
+      "indices" : [ 0, 11 ],
+      "id_str" : "15439395",
+      "id" : 15439395
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "1335666333",
   "geo" : { },
   "id_str" : "1335678263",
+  "in_reply_to_user_id" : 15439395,
   "text" : "@stephenfry it sounds very regal and gentlemanly. can imagine it being the only way the upper classes would fly.",
   "id" : 1335678263,
+  "in_reply_to_status_id" : 1335666333,
   "created_at" : "2009-03-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "stephenfry",
+  "in_reply_to_user_id_str" : "15439395",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -2615,7 +2626,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bronwen Clune",
+      "name" : "Bronwen",
       "screen_name" : "bronwen",
       "indices" : [ 0, 8 ],
       "id_str" : "749333",
@@ -3405,7 +3416,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",

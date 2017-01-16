@@ -597,8 +597,8 @@ Grailbird.data.tweets_2013_06 =
       "name" : "maddie maree.",
       "screen_name" : "thephantomfly",
       "indices" : [ 0, 14 ],
-      "id_str" : "14161529",
-      "id" : 14161529
+      "id_str" : "732861447026413568",
+      "id" : 732861447026413568
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -612,7 +612,7 @@ Grailbird.data.tweets_2013_06 =
   "id" : 346973958123433985,
   "in_reply_to_status_id" : 346972739346771968,
   "created_at" : "2013-06-18 12:53:32 +0000",
-  "in_reply_to_screen_name" : "thephantomfly",
+  "in_reply_to_screen_name" : "laexistential",
   "in_reply_to_user_id_str" : "14161529",
   "user" : {
     "name" : "Adrian",
@@ -900,7 +900,7 @@ Grailbird.data.tweets_2013_06 =
       "id" : 5388702
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/346518102877564928\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/346518102877564928\/photo\/1",
       "indices" : [ 83, 105 ],
       "url" : "http:\/\/t.co\/5dnJQiovQ7",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BM8UYO7CcAAoepd.png",
@@ -1039,7 +1039,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rupert H",
+      "name" : "the result respecter",
       "screen_name" : "rpy",
       "indices" : [ 12, 16 ],
       "id_str" : "14386354",
@@ -1150,7 +1150,7 @@ Grailbird.data.tweets_2013_06 =
   "id" : 346102796111708160,
   "in_reply_to_status_id" : 346095920854736897,
   "created_at" : "2013-06-16 03:11:51 +0000",
-  "in_reply_to_screen_name" : "Adsy_1",
+  "in_reply_to_screen_name" : "AdolescentElder",
   "in_reply_to_user_id_str" : "239753386",
   "user" : {
     "name" : "Adrian",
@@ -1510,7 +1510,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steph",
+      "name" : "Steph \uD83D\uDC2F",
       "screen_name" : "StephCusworth",
       "indices" : [ 0, 14 ],
       "id_str" : "16659606",
@@ -1543,7 +1543,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steph",
+      "name" : "Steph \uD83D\uDC2F",
       "screen_name" : "StephCusworth",
       "indices" : [ 0, 14 ],
       "id_str" : "16659606",

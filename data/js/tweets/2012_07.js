@@ -475,7 +475,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 229816468148219904,
   "in_reply_to_status_id" : 229815973891411968,
   "created_at" : "2012-07-30 05:51:30 +0000",
-  "in_reply_to_screen_name" : "LilianaB___",
+  "in_reply_to_screen_name" : "hellomishki",
   "in_reply_to_user_id_str" : "20124270",
   "user" : {
     "name" : "Adrian",
@@ -568,11 +568,11 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Lisagor",
+      "name" : "lonelysandwich",
       "screen_name" : "lonelysandwich",
       "indices" : [ 0, 15 ],
-      "id_str" : "2735631",
-      "id" : 2735631
+      "id_str" : "796790301616525312",
+      "id" : 796790301616525312
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -586,7 +586,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 229709322769276930,
   "in_reply_to_status_id" : 229708894170132481,
   "created_at" : "2012-07-29 22:45:44 +0000",
-  "in_reply_to_screen_name" : "lonelysandwich",
+  "in_reply_to_screen_name" : "adamlisagor",
   "in_reply_to_user_id_str" : "2735631",
   "user" : {
     "name" : "Adrian",
@@ -812,7 +812,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Nix-Carnell",
+      "name" : "Simon + On + On",
       "screen_name" : "simonnix",
       "indices" : [ 0, 9 ],
       "id_str" : "35695136",
@@ -845,7 +845,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Nix-Carnell",
+      "name" : "Simon + On + On",
       "screen_name" : "simonnix",
       "indices" : [ 0, 9 ],
       "id_str" : "35695136",
@@ -878,7 +878,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Nix-Carnell",
+      "name" : "Simon + On + On",
       "screen_name" : "simonnix",
       "indices" : [ 0, 9 ],
       "id_str" : "35695136",
@@ -917,7 +917,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Nix-Carnell",
+      "name" : "Simon + On + On",
       "screen_name" : "simonnix",
       "indices" : [ 0, 9 ],
       "id_str" : "35695136",
@@ -1188,11 +1188,11 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "3434033060",
       "id" : 3434033060
     }, {
-      "name" : "Sirhc",
+      "name" : "\u26A0",
       "screen_name" : "lolroy",
       "indices" : [ 11, 18 ],
-      "id_str" : "349362400",
-      "id" : 349362400
+      "id_str" : "17671050",
+      "id" : 17671050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1363,7 +1363,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2368",
+      "name" : "Ryan McCue \u2600\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -1457,7 +1457,7 @@ Grailbird.data.tweets_2012_07 =
       "id" : 14231571
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/226887004686807041\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/226887004686807041\/photo\/1",
       "indices" : [ 89, 109 ],
       "url" : "http:\/\/t.co\/gWEhIEcZ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AyYQh1bCcAEqz8X.jpg",
@@ -1606,7 +1606,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2368",
+      "name" : "Ryan McCue \u2600\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3237,12 +3237,7 @@ Grailbird.data.tweets_2012_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/h1cJJsPX",
-      "expanded_url" : "http:\/\/www.seek.com.au\/Job\/business-development-manager\/in\/melbourne-cbd-inner-suburbs\/22685587",
-      "display_url" : "seek.com.au\/Job\/business-d\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "222862409315004417",
@@ -3446,7 +3441,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jayne.",
+      "name" : "Jayne McCartney",
       "screen_name" : "indydreaming",
       "indices" : [ 0, 13 ],
       "id_str" : "45725921",
@@ -3821,11 +3816,11 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sirhc",
+      "name" : "\u26A0",
       "screen_name" : "lolroy",
       "indices" : [ 0, 7 ],
-      "id_str" : "349362400",
-      "id" : 349362400
+      "id_str" : "17671050",
+      "id" : 17671050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3839,7 +3834,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 219601755686707200,
   "in_reply_to_status_id" : 219601334876381185,
   "created_at" : "2012-07-02 01:21:53 +0000",
-  "in_reply_to_screen_name" : "wasarealboy",
+  "in_reply_to_screen_name" : "lolroy",
   "in_reply_to_user_id_str" : "17671050",
   "user" : {
     "name" : "Adrian",

@@ -59,11 +59,11 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "33423",
       "id" : 33423
     }, {
-      "name" : "Adam Lisagor",
+      "name" : "lonelysandwich",
       "screen_name" : "lonelysandwich",
       "indices" : [ 19, 34 ],
-      "id_str" : "2735631",
-      "id" : 2735631
+      "id_str" : "796790301616525312",
+      "id" : 796790301616525312
     }, {
       "name" : "Neven Mrgan",
       "screen_name" : "mrgan",
@@ -104,7 +104,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Isaac Z. Schlueter",
+      "name" : "isaacs \uD83D\uDE21\uD83D\uDC94\uD83C\uDDFA\uD83C\uDDF8\u262D",
       "screen_name" : "izs",
       "indices" : [ 3, 7 ],
       "id_str" : "8038312",
@@ -136,13 +136,13 @@ Grailbird.data.tweets_2015_01 =
     "in_reply_to_screen_name" : "izs",
     "in_reply_to_user_id_str" : "8038312",
     "user" : {
-      "name" : "Isaac Z. Schlueter",
+      "name" : "isaacs \uD83D\uDE21\uD83D\uDC94\uD83C\uDDFA\uD83C\uDDF8\u262D",
       "screen_name" : "izs",
       "protected" : false,
       "id_str" : "8038312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649690687860899840\/bSyKUJfg_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765345750427414529\/hxSFDEmc_normal.jpg",
       "id" : 8038312,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 558837736698691584,
@@ -406,26 +406,21 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "555576969119531010",
   "geo" : { },
   "id_str" : "555577183037452288",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k DON'T SON ME HIPPY RAGE BOT.",
   "id" : 555577183037452288,
-  "in_reply_to_status_id" : 555576969119531010,
   "created_at" : "2015-01-15 04:08:17 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -461,7 +456,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bronwen Clune",
+      "name" : "Bronwen",
       "screen_name" : "bronwen",
       "indices" : [ 0, 8 ],
       "id_str" : "749333",
@@ -494,7 +489,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bronwen Clune",
+      "name" : "Bronwen",
       "screen_name" : "bronwen",
       "indices" : [ 0, 8 ],
       "id_str" : "749333",
@@ -527,11 +522,11 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     }, {
       "name" : "Charlie Somerville",
       "screen_name" : "charliesome",
@@ -543,16 +538,11 @@ Grailbird.data.tweets_2015_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "555239989093494784",
   "geo" : { },
   "id_str" : "555240676519321600",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k @charliesome is that the plot to the new home alone movie?",
   "id" : 555240676519321600,
-  "in_reply_to_status_id" : 555239989093494784,
   "created_at" : "2015-01-14 05:51:07 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1013,26 +1003,21 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrew Krespanis",
-      "screen_name" : "andrew_k",
+      "name" : "Andrew K",
+      "screen_name" : "Andrew_K",
       "indices" : [ 0, 9 ],
-      "id_str" : "26373033",
-      "id" : 26373033
+      "id_str" : "808894731967168512",
+      "id" : 808894731967168512
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "553394687709442048",
   "geo" : { },
   "id_str" : "553394983059742720",
-  "in_reply_to_user_id" : 26373033,
   "text" : "@andrew_k PULL MORE THINGS",
   "id" : 553394983059742720,
-  "in_reply_to_status_id" : 553394687709442048,
   "created_at" : "2015-01-09 03:37:00 +0000",
-  "in_reply_to_screen_name" : "andrew_k",
-  "in_reply_to_user_id_str" : "26373033",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",

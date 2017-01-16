@@ -66,7 +66,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sunnybunny",
+      "name" : "s",
       "screen_name" : "SunflowerO",
       "indices" : [ 0, 11 ],
       "id_str" : "324600935",
@@ -102,7 +102,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jayne.",
+      "name" : "Jayne McCartney",
       "screen_name" : "indydreaming",
       "indices" : [ 0, 13 ],
       "id_str" : "45725921",
@@ -138,7 +138,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jayne.",
+      "name" : "Jayne McCartney",
       "screen_name" : "indydreaming",
       "indices" : [ 0, 13 ],
       "id_str" : "45725921",
@@ -524,7 +524,7 @@ Grailbird.data.tweets_2013_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/411379576447586304\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/411379576447586304\/photo\/1",
       "indices" : [ 16, 38 ],
       "url" : "http:\/\/t.co\/xLXky3T1By",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BbWDi4sCQAA5EeE.jpg",

@@ -902,7 +902,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -1220,7 +1220,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -1253,7 +1253,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -1501,7 +1501,7 @@ Grailbird.data.tweets_2012_04 =
   "id" : 187533914817052672,
   "in_reply_to_status_id" : 187533129651728384,
   "created_at" : "2012-04-04 13:35:44 +0000",
-  "in_reply_to_screen_name" : "meowmixbd",
+  "in_reply_to_screen_name" : "ComradePurrski",
   "in_reply_to_user_id_str" : "14149843",
   "user" : {
     "name" : "Adrian",

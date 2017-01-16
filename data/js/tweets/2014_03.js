@@ -126,7 +126,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "16679734",
       "id" : 16679734
     }, {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 15, 20 ],
       "id_str" : "816717",

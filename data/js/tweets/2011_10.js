@@ -1281,7 +1281,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "WarWraith",
       "protected" : false,
       "id_str" : "1591341",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715742792777994240\/hjp__a_N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780253723461234689\/D0Zv391S_normal.jpg",
       "id" : 1591341,
       "verified" : false
     }
@@ -1350,7 +1350,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Poh",
+      "name" : "Jonathan Poh \uD83D\uDCCE",
       "screen_name" : "jpoh",
       "indices" : [ 0, 5 ],
       "id_str" : "816717",
@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2011_10 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/125492914804629504\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/125492914804629504\/photo\/1",
       "indices" : [ 8, 28 ],
       "url" : "http:\/\/t.co\/WYqBmZAq",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Ab3XJCECIAEdH6F.jpg",
@@ -1453,7 +1453,7 @@ Grailbird.data.tweets_2011_10 =
   "id" : 125129649507418112,
   "in_reply_to_status_id" : 125108946431246336,
   "created_at" : "2011-10-15 08:43:27 +0000",
-  "in_reply_to_screen_name" : "meowmixbd",
+  "in_reply_to_screen_name" : "ComradePurrski",
   "in_reply_to_user_id_str" : "14149843",
   "user" : {
     "name" : "Adrian",
@@ -1469,7 +1469,7 @@ Grailbird.data.tweets_2011_10 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/125117919351943168\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/125117919351943168\/photo\/1",
       "indices" : [ 13, 33 ],
       "url" : "http:\/\/t.co\/91uSAmIw",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AbyCFbJCMAEl44-.jpg",
@@ -1551,7 +1551,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "peterwells",
       "protected" : false,
       "id_str" : "56873",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636164671947444226\/Plk2A96n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780179003172753408\/_MbmsZT6_normal.jpg",
       "id" : 56873,
       "verified" : true
     }
@@ -1583,7 +1583,7 @@ Grailbird.data.tweets_2011_10 =
   "id" : 125060129564540928,
   "in_reply_to_status_id" : 125000394937077761,
   "created_at" : "2011-10-15 04:07:13 +0000",
-  "in_reply_to_screen_name" : "meowmixbd",
+  "in_reply_to_screen_name" : "ComradePurrski",
   "in_reply_to_user_id_str" : "14149843",
   "user" : {
     "name" : "Adrian",
@@ -1847,7 +1847,7 @@ Grailbird.data.tweets_2011_10 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/124407501927088128\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/124407501927088128\/photo\/1",
       "indices" : [ 73, 93 ],
       "url" : "http:\/\/t.co\/jdIl7sPe",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Abn79sACAAAPXN2.jpg",
@@ -2419,7 +2419,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GenErik",
+      "name" : "Kompromat",
       "screen_name" : "ErikVeland",
       "indices" : [ 122, 133 ],
       "id_str" : "15080202",
@@ -2447,7 +2447,7 @@ Grailbird.data.tweets_2011_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "GenErik",
+        "name" : "Kompromat",
         "screen_name" : "ErikVeland",
         "indices" : [ 101, 112 ],
         "id_str" : "15080202",
@@ -2478,7 +2478,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "wonkydisko",
       "protected" : false,
       "id_str" : "210757707",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699030137556185088\/iPkQtf38_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/801212560598937601\/YEdWAV5G_normal.jpg",
       "id" : 210757707,
       "verified" : false
     }
@@ -2775,12 +2775,7 @@ Grailbird.data.tweets_2011_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/99vY8DYP",
-      "expanded_url" : "http:\/\/www.meetup.com\/Melbourne-Symfony2-Group\/events\/28652731\/",
-      "display_url" : "meetup.com\/Melbourne-Symf\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "120637843201720320",

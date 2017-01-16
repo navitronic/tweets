@@ -113,7 +113,7 @@ Grailbird.data.tweets_2013_10 =
       "id" : 13886322
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/395108209469304832\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/395108209469304832\/photo\/1",
       "indices" : [ 40, 62 ],
       "url" : "http:\/\/t.co\/i9WXcNXxK5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BXu00qeCYAAJcyg.jpg",
@@ -241,7 +241,7 @@ Grailbird.data.tweets_2013_10 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/394719088175349760\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/394719088175349760\/photo\/1",
       "indices" : [ 63, 85 ],
       "url" : "http:\/\/t.co\/lPu0RnnKKH",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BXpS61ACEAANX6J.jpg",
@@ -1277,7 +1277,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",

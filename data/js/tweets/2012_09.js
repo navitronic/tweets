@@ -1275,7 +1275,7 @@ Grailbird.data.tweets_2012_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/248232473761296385\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/248232473761296385\/photo\/1",
       "indices" : [ 37, 57 ],
       "url" : "http:\/\/t.co\/9cp59wkZ",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A3HmHqSCMAAxhT7.jpg",
@@ -1738,11 +1738,11 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ukiah Smith",
+      "name" : "Supermighty",
       "screen_name" : "Supermighty",
       "indices" : [ 0, 12 ],
-      "id_str" : "6606202",
-      "id" : 6606202
+      "id_str" : "27634952",
+      "id" : 27634952
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1756,7 +1756,7 @@ Grailbird.data.tweets_2012_09 =
   "id" : 245333885477609473,
   "in_reply_to_status_id" : 245333409449263104,
   "created_at" : "2012-09-11 01:32:11 +0000",
-  "in_reply_to_screen_name" : "Supermighty",
+  "in_reply_to_screen_name" : "UkiahSmith",
   "in_reply_to_user_id_str" : "6606202",
   "user" : {
     "name" : "Adrian",
@@ -1771,11 +1771,11 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ukiah Smith",
+      "name" : "Supermighty",
       "screen_name" : "Supermighty",
       "indices" : [ 0, 12 ],
-      "id_str" : "6606202",
-      "id" : 6606202
+      "id_str" : "27634952",
+      "id" : 27634952
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1789,7 +1789,7 @@ Grailbird.data.tweets_2012_09 =
   "id" : 245332547796619266,
   "in_reply_to_status_id" : 245332128991162368,
   "created_at" : "2012-09-11 01:26:52 +0000",
-  "in_reply_to_screen_name" : "Supermighty",
+  "in_reply_to_screen_name" : "UkiahSmith",
   "in_reply_to_user_id_str" : "6606202",
   "user" : {
     "name" : "Adrian",
@@ -1804,11 +1804,11 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ukiah Smith",
+      "name" : "Supermighty",
       "screen_name" : "Supermighty",
       "indices" : [ 0, 12 ],
-      "id_str" : "6606202",
-      "id" : 6606202
+      "id_str" : "27634952",
+      "id" : 27634952
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1827,7 +1827,7 @@ Grailbird.data.tweets_2012_09 =
   "id" : 245331625955717120,
   "in_reply_to_status_id" : 245329200230305793,
   "created_at" : "2012-09-11 01:23:12 +0000",
-  "in_reply_to_screen_name" : "Supermighty",
+  "in_reply_to_screen_name" : "UkiahSmith",
   "in_reply_to_user_id_str" : "6606202",
   "user" : {
     "name" : "Adrian",
@@ -1849,7 +1849,7 @@ Grailbird.data.tweets_2012_09 =
       "id" : 25973938
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/emiliameow\/status\/245329391687696384\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/emiliameow\/status\/245329391687696384\/photo\/1",
       "indices" : [ 65, 85 ],
       "url" : "http:\/\/t.co\/uDpXMltf",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A2eVyCzCAAE_z0g.jpg",
@@ -1890,7 +1890,7 @@ Grailbird.data.tweets_2012_09 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/emiliameow\/status\/245329391687696384\/photo\/1",
+        "expanded_url" : "https:\/\/twitter.com\/emiliameow\/status\/245329391687696384\/photo\/1",
         "indices" : [ 49, 69 ],
         "url" : "http:\/\/t.co\/uDpXMltf",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/A2eVyCzCAAE_z0g.jpg",
@@ -2524,7 +2524,7 @@ Grailbird.data.tweets_2012_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/242165078441459712\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/242165078441459712\/photo\/1",
       "indices" : [ 26, 46 ],
       "url" : "http:\/\/t.co\/NXRBQ2Xv",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/A1xX2xXCAAAIEGO.jpg",

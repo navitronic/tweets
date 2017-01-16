@@ -688,7 +688,7 @@ Grailbird.data.tweets_2013_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/navitronic\/status\/304832364075417600\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/navitronic\/status\/304832364075417600\/photo\/1",
       "indices" : [ 59, 81 ],
       "url" : "http:\/\/t.co\/Z8G88Q1HI3",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BDr7a4kCAAAA-ul.jpg",
@@ -1134,7 +1134,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "38526545",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1255573234\/tweet_normal.jpg",
       "id" : 38526545,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 298911781504565248,
@@ -1277,7 +1277,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "H\u2022A\u2022L\u2022S\u2022E\u2022Y",
+      "name" : ".",
       "screen_name" : "astro_jess",
       "indices" : [ 0, 11 ],
       "id_str" : "3089844141",
@@ -1327,7 +1327,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack",
+      "name" : "jack",
       "screen_name" : "jack",
       "indices" : [ 0, 5 ],
       "id_str" : "12",

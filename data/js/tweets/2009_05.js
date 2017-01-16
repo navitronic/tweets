@@ -1022,26 +1022,21 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathleen Joy",
+      "name" : "Sie",
       "screen_name" : "kissability",
       "indices" : [ 0, 12 ],
-      "id_str" : "5447072",
-      "id" : 5447072
+      "id_str" : "797151622207934464",
+      "id" : 797151622207934464
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1894383008",
   "geo" : { },
   "id_str" : "1894519894",
-  "in_reply_to_user_id" : 5447072,
   "text" : "@kissability yay for no glassing!",
   "id" : 1894519894,
-  "in_reply_to_status_id" : 1894383008,
   "created_at" : "2009-05-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kissability",
-  "in_reply_to_user_id_str" : "5447072",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1718,26 +1713,21 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathleen Joy",
+      "name" : "Sie",
       "screen_name" : "kissability",
       "indices" : [ 0, 12 ],
-      "id_str" : "5447072",
-      "id" : 5447072
+      "id_str" : "797151622207934464",
+      "id" : 797151622207934464
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1846735187",
   "geo" : { },
   "id_str" : "1846990868",
-  "in_reply_to_user_id" : 5447072,
   "text" : "@kissability thanks, current crisis relates, to after a 14 hour day finding your bathroom flooded with piss and shit from upstairs flat :(",
   "id" : 1846990868,
-  "in_reply_to_status_id" : 1846735187,
   "created_at" : "2009-05-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kissability",
-  "in_reply_to_user_id_str" : "5447072",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -1782,26 +1772,21 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathleen Joy",
+      "name" : "Sie",
       "screen_name" : "kissability",
       "indices" : [ 0, 12 ],
-      "id_str" : "5447072",
-      "id" : 5447072
+      "id_str" : "797151622207934464",
+      "id" : 797151622207934464
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1847069296",
   "geo" : { },
   "id_str" : "1847201221",
-  "in_reply_to_user_id" : 5447072,
   "text" : "@kissability yep he is on his way. Now to watch tv, drink red wine and refuse to breathe until he gets here",
   "id" : 1847201221,
-  "in_reply_to_status_id" : 1847069296,
   "created_at" : "2009-05-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kissability",
-  "in_reply_to_user_id_str" : "5447072",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -2322,26 +2307,21 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathleen Joy",
+      "name" : "Sie",
       "screen_name" : "kissability",
       "indices" : [ 0, 12 ],
-      "id_str" : "5447072",
-      "id" : 5447072
+      "id_str" : "797151622207934464",
+      "id" : 797151622207934464
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1802654500",
   "geo" : { },
   "id_str" : "1802737288",
-  "in_reply_to_user_id" : 5447072,
   "text" : "@kissability yeah, I've watched season 1 so far and loved it. I remember not seeing what the fuss was about when on tv, now I do!",
   "id" : 1802737288,
-  "in_reply_to_status_id" : 1802654500,
   "created_at" : "2009-05-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kissability",
-  "in_reply_to_user_id_str" : "5447072",
   "user" : {
     "name" : "Adrian",
     "screen_name" : "navitronic",
@@ -2934,7 +2914,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LED Kernber",
+      "name" : "Elliott Kernber",
       "screen_name" : "elliottkember",
       "indices" : [ 0, 14 ],
       "id_str" : "903351",

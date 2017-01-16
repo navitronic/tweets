@@ -115,7 +115,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "2338913060",
       "id" : 2338913060
     }, {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 34, 48 ],
       "id_str" : "16825527",
@@ -230,7 +230,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Nix-Carnell",
+      "name" : "Simon + On + On",
       "screen_name" : "simonnix",
       "indices" : [ 0, 9 ],
       "id_str" : "35695136",
@@ -762,7 +762,7 @@ Grailbird.data.tweets_2011_04 =
   "id" : 59824937527029760,
   "in_reply_to_status_id" : 59824338601381888,
   "created_at" : "2011-04-18 03:45:51 +0000",
-  "in_reply_to_screen_name" : "Licensed2Krill",
+  "in_reply_to_screen_name" : "SexyMagikarp_",
   "in_reply_to_user_id_str" : "19766103",
   "user" : {
     "name" : "Adrian",
@@ -802,7 +802,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/hahlo.com\" rel=\"nofollow\"\u003EHahlo\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -835,7 +835,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/hahlo.com\" rel=\"nofollow\"\u003EHahlo\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephanie",
+      "name" : "Stephanie Dyhin",
       "screen_name" : "tephdee",
       "indices" : [ 0, 8 ],
       "id_str" : "7709732",
@@ -1098,7 +1098,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -1312,7 +1312,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -1345,7 +1345,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -2069,7 +2069,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carly Lyddiard",
+      "name" : "Carly",
       "screen_name" : "palegoldenrod",
       "indices" : [ 0, 14 ],
       "id_str" : "16825527",
@@ -2145,7 +2145,7 @@ Grailbird.data.tweets_2011_04 =
   "id" : 55848051042037760,
   "in_reply_to_status_id" : 55847748800483328,
   "created_at" : "2011-04-07 04:23:07 +0000",
-  "in_reply_to_screen_name" : "Licensed2Krill",
+  "in_reply_to_screen_name" : "SexyMagikarp_",
   "in_reply_to_user_id_str" : "19766103",
   "user" : {
     "name" : "Adrian",
@@ -2160,7 +2160,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jayne.",
+      "name" : "Jayne McCartney",
       "screen_name" : "indydreaming",
       "indices" : [ 0, 13 ],
       "id_str" : "45725921",
